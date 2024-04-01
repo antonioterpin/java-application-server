@@ -6,6 +6,7 @@ import http.server.HttpServer;
 /**
  * Sockets application that provides an http server (reachable from a common browser) and a simple chat 
  * @author Antonio Terpin
+ * @year 2016
  */
 
 public class Application {
